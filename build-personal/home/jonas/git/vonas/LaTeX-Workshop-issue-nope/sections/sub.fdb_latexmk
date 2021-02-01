@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1612212535 "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.tex" "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.pdf" "sub" 1612212535
+  "../super.tex" 0 -1 0 ""
+  "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/../super.tex" 0 -1 0 ""
+  "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.aux" 1612212535 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.tex" 1612212534 87 da397e691124df6d6b1803e36aef3935 ""
+  "/usr/share/texmf-dist/tex/latex/import/import.sty" 1607185936 6201 0ad8b5da8e12f60a88d546b2198a56f2 ""
+  "/usr/share/texmf-dist/tex/latex/subfiles/subfiles.cls" 1607185936 1507 57de335d88fde4e5c924dfed577fdb74 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1607249373 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1611418241 2635855 b63ad3af31061cf91f07dd79f3a38b5a ""
+  "sections/sub.tex" 1612212534 87 da397e691124df6d6b1803e36aef3935 ""
+  (generated)
+  "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.log"
+  "/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.pdf"
+  "build/home/jonas/git/vonas/LaTeX-Workshop-issue-nope/sections/sub.log"
